@@ -7,3 +7,4 @@ Here I provide code, data and a tutorial showing how to reproduce the analyses i
 - **data**: with .RData files with simulated data for slow and fast species.
 - **docs**: with the file ***BaFTAvignette.pdf*** with a step by step tutorial explaining how to use the R package BaFTA.
 
+The release is available at the Zenodo repository [![DOI](https://zenodo.org/badge/966777927.svg)](https://doi.org/10.5281/zenodo.15223646)
